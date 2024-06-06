@@ -1,7 +1,7 @@
 ---
 title: Building consistency
 date: 2024-06-04
-description: "So I have currently been consistently learning german for the last 45 day and I am very happy about it. I have tried before but I ususally tap out at a week. This time thugh I was able to go consistenly bo my lesson and see good results from it. I want to talk about what changed and how it can help someone learning a new language."
+description: "So for the last 45 days, I have been consistent with my German lessons. I am very happy about it. I have tried many learning routines before but I always tap out after a week. This time though, I am doing it and I am seeing good results. So let me tell you what I changed."
 image: images/blocks.jpg
 imageAltAttribute: 
 tags:

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/building-consistency/</loc>
+    <loc>//localhost:1313/posts/building_consistency/</loc>
     <lastmod>2024-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>

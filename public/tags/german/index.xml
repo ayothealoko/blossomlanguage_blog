@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>German on Blossom Languages</title>
+    <link>//localhost:1313/tags/german/</link>
+    <description>Recent content in German on Blossom Languages</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/german/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building consistency</title>
+      <link>//localhost:1313/posts/building-consistency/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/building-consistency/</guid>
+      <description>Photo by Magda Ehlers&#xA;The old way So I have currently been consistently learning german for the last 45 day and I am very happy about it. I have tried before but I ususally tap out at a week. This time thugh I was able to go consistenly bo my lesson and see good results from it. I want to talk about what changed and how it can help someone learning a new language.</description>
+    </item>
+  </channel>
+</rss>
